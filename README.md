@@ -16,16 +16,23 @@ In my free time, I enjoy keeping myself physically active by engaging in various
 Skills:
 
 Fullstack web development :computer:
+
 Building headless PWA applications :iphone:
+
 eCommerce website development :shopping_cart:
+
 Rest API and GraphQL integration :link:
+
 Expertise in React, NextJS, and other optimization libraries :rocket:
 
 Hobbies:
 
 Sports (football, basketball, volleyball) :soccer: :basketball: :volleyball:
+
 Walking :walking:
+
 Hiking :mountain:
+
 Maintaining a healthy work-life balance :relieved:
 
 <!---
